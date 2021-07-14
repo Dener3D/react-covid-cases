@@ -1,6 +1,6 @@
 # Covid Cases by Country
 
-An application for showing covid cases filtered by countries
+An application developed using React.JS for showing covid cases filtered by countries
 
 link for the project: https://react-covid-cases.netlify.app/
 

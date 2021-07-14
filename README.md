@@ -6,8 +6,6 @@ link for the project: https://react-covid-cases.netlify.app/
 
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" width="800" height="800"/>
 
-## Features
-
 ### Filter
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/filter.jpg" width="800" height="800"/>
 

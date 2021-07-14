@@ -6,6 +6,8 @@ link for the project: https://react-covid-cases.netlify.app/
 
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" />
 
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/02.jpg" />
+
 ## Available Scripts
 
 In the project directory, you can run:

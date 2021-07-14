@@ -6,7 +6,13 @@ link for the project: https://react-covid-cases.netlify.app/
 
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" />
 
+## Features
+
+###Filter
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/02.jpg" />
+
+###Loader
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/loader.jpg" />
 
 ## Available Scripts
 

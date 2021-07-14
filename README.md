@@ -2,7 +2,7 @@
 
 An application developed using React.JS for showing covid cases filtered by countries
 
-link for the project: https://react-covid-cases.netlify.app/
+Application link: https://react-covid-cases.netlify.app/
 
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" width="800" height="800"/>
 

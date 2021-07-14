@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Covid Cases by Country
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An application for showing covid cases filtered by countries
+
+link for the project: https://react-covid-cases.netlify.app/
 
 ## Available Scripts
 

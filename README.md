@@ -8,10 +8,10 @@ link for the project: https://react-covid-cases.netlify.app/
 
 ## Features
 
-###Filter
+### Filter
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/02.jpg" />
 
-###Loader
+### Loader
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/loader.jpg" />
 
 ## Available Scripts

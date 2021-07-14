@@ -4,15 +4,15 @@ An application developed using React.JS for showing covid cases filtered by coun
 
 link for the project: https://react-covid-cases.netlify.app/
 
-<img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" width="500" height="500"/>
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" width="800" height="800"/>
 
 ## Features
 
 ### Filter
-<img src="https://github.com/Dener3D/react-covid-cases/blob/main/filter.jpg" />
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/filter.jpg" width="800" height="800"/>
 
 ### Loader
-<img src="https://github.com/Dener3D/react-covid-cases/blob/main/loader.jpg" />
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/loader.jpg" width="800" height="800"/>
 
 ## Available Scripts
 

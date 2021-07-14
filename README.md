@@ -4,7 +4,7 @@ An application for showing covid cases filtered by countries
 
 link for the project: https://react-covid-cases.netlify.app/
 
-<img src="https://github.com/Dener3D/imc-kalk-flutter/blob/master/images/01.PNG" />
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/main_screen.PNG" />
 
 ## Available Scripts
 

@@ -9,7 +9,7 @@ link for the project: https://react-covid-cases.netlify.app/
 ## Features
 
 ### Filter
-<img src="https://github.com/Dener3D/react-covid-cases/blob/main/02.jpg" />
+<img src="https://github.com/Dener3D/react-covid-cases/blob/main/filter.jpg" />
 
 ### Loader
 <img src="https://github.com/Dener3D/react-covid-cases/blob/main/loader.jpg" />
